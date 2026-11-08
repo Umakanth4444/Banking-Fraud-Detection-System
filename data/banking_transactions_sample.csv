@@ -1,0 +1,601 @@
+transaction_id,customer_id,transaction_amount,transaction_date,merchant_category,transaction_type,location,payment_channel,device_type,is_international,is_fraud,customer_segment,account_age_months,home_city
+900001,1070,909.31,2026-01-08 02:59:00,Healthcare,UPI,Bengaluru,ATM,Android,false,false,Premium,17,Delhi
+900002,1050,33.61,2026-05-16 14:18:00,Utilities,Card,Bengaluru,POS,iOS,false,false,Business,49,Pune
+900003,1008,202.84,2026-10-24 23:34:00,Travel,UPI,Pune,Mobile App,iOS,true,false,Business,29,Mumbai
+900004,1009,342.23,2026-02-04 21:55:00,Groceries,Wallet,Hyderabad,ATM,Windows,false,false,Student,104,Vijayawada
+900005,1034,368.46,2026-04-15 21:45:00,Utilities,Bank Transfer,Vijayawada,Mobile App,Android,false,false,Standard,30,Vijayawada
+900006,1059,612.53,2026-10-16 03:04:00,Electronics,Card,Chennai,POS,iOS,false,false,Premium,65,Hyderabad
+900007,1057,1095.33,2026-10-06 22:19:00,Travel,Bank Transfer,Hyderabad,Mobile App,iOS,false,false,Standard,93,Delhi
+900008,1035,830.38,2026-05-25 19:13:00,Utilities,Bank Transfer,Vijayawada,Mobile App,Android,false,false,Standard,104,Chennai
+900009,1082,725.48,2026-08-05 08:02:00,Healthcare,Wallet,Hyderabad,Mobile App,Android,false,false,Standard,30,Hyderabad
+900010,1089,1876.96,2026-03-18 17:02:00,Dining,Bank Transfer,Vijayawada,Mobile App,Windows,false,false,Premium,13,Hyderabad
+900011,1027,325.93,2026-05-08 21:06:00,Travel,Card,Vijayawada,Web,iOS,false,false,Student,27,Delhi
+900012,1053,360.34,2026-01-13 05:47:00,Travel,UPI,Mumbai,Mobile App,POS Terminal,false,false,Standard,88,Pune
+900013,1029,189.0,2026-04-13 14:22:00,Online Shopping,Bank Transfer,Vijayawada,Mobile App,Windows,false,true,Standard,78,Delhi
+900014,1045,1439.77,2026-09-18 12:43:00,Online Shopping,ATM,Pune,Mobile App,POS Terminal,true,false,Premium,66,Mumbai
+900015,1074,2261.17,2026-04-08 08:02:00,Fuel,Bank Transfer,Mumbai,Mobile App,Windows,false,false,Premium,92,Chennai
+900016,1080,562.85,2026-06-10 21:54:00,Travel,Card,Mumbai,ATM,iOS,false,false,Premium,76,Bengaluru
+900017,1079,305.8,2026-10-19 09:25:00,Utilities,ATM,Mumbai,Web,POS Terminal,false,false,Standard,76,Pune
+900018,1095,201.72,2026-03-28 21:05:00,Fuel,Bank Transfer,Bengaluru,Web,iOS,false,false,Standard,32,Bengaluru
+900019,1004,1143.79,2026-01-24 07:30:00,Fuel,ATM,Mumbai,ATM,iOS,false,false,Standard,76,Mumbai
+900020,1019,473.32,2026-01-03 03:49:00,Groceries,Wallet,Bengaluru,Mobile App,POS Terminal,false,false,Standard,71,Chennai
+900021,1018,1011.9,2026-08-26 21:33:00,Utilities,Card,Delhi,ATM,POS Terminal,false,false,Standard,119,Mumbai
+900022,1034,1283.49,2026-05-07 20:17:00,Electronics,Bank Transfer,Bengaluru,POS,Windows,false,false,Standard,30,Vijayawada
+900023,1041,227.28,2026-10-04 02:08:00,Healthcare,ATM,Chennai,ATM,POS Terminal,false,false,Premium,32,Delhi
+900024,1008,2447.53,2026-04-16 13:24:00,Healthcare,ATM,Hyderabad,POS,Windows,false,false,Business,29,Mumbai
+900025,1097,1263.96,2026-07-19 13:34:00,Fuel,Bank Transfer,Mumbai,ATM,Android,false,false,Premium,55,Bengaluru
+900026,1050,2889.79,2026-06-22 21:43:00,Groceries,ATM,Pune,Mobile App,Android,false,false,Business,49,Pune
+900027,1083,511.7,2026-08-08 04:55:00,Online Shopping,Bank Transfer,Vijayawada,ATM,Windows,false,false,Standard,111,Chennai
+900028,1097,280.86,2026-08-04 08:53:00,Groceries,Card,Bengaluru,Mobile App,iOS,false,false,Premium,55,Bengaluru
+900029,1031,506.44,2026-03-06 15:42:00,Electronics,Card,Chennai,Mobile App,Android,false,false,Premium,21,Mumbai
+900030,1040,1758.95,2026-10-22 21:58:00,Fuel,UPI,Delhi,POS,Android,false,false,Business,19,Chennai
+900031,1073,456.83,2026-01-22 11:34:00,Healthcare,ATM,Hyderabad,ATM,Windows,false,false,Business,28,Pune
+900032,1082,374.59,2026-08-24 22:09:00,Utilities,ATM,Mumbai,POS,Windows,false,false,Standard,30,Hyderabad
+900033,1032,401.65,2026-02-14 08:56:00,Online Shopping,UPI,Mumbai,POS,iOS,false,false,Business,35,Delhi
+900034,1063,324.42,2026-04-19 11:51:00,Groceries,Wallet,Bengaluru,Mobile App,iOS,false,false,Standard,77,Chennai
+900035,1093,1975.03,2026-07-28 15:35:00,Groceries,UPI,Chennai,Web,POS Terminal,false,false,Standard,8,Mumbai
+900036,1089,691.63,2026-05-05 09:42:00,Online Shopping,Bank Transfer,Delhi,ATM,Windows,false,false,Premium,13,Hyderabad
+900037,1040,897.1,2026-05-09 07:07:00,Travel,Card,Bengaluru,ATM,Windows,false,false,Business,19,Chennai
+900038,1093,332.88,2026-09-26 19:18:00,Travel,Bank Transfer,Hyderabad,Mobile App,Windows,false,false,Standard,8,Mumbai
+900039,1090,841.28,2026-03-06 20:55:00,Utilities,ATM,Chennai,Web,Android,true,false,Business,46,Mumbai
+900040,1033,145.42,2026-09-02 03:52:00,Travel,Card,Vijayawada,POS,Android,false,false,Premium,88,Chennai
+900041,1032,395.26,2026-03-02 17:48:00,Healthcare,ATM,Mumbai,POS,POS Terminal,false,false,Business,35,Delhi
+900042,1040,1044.46,2026-10-19 19:03:00,Fuel,Bank Transfer,Delhi,Mobile App,iOS,false,false,Business,19,Chennai
+900043,1031,222.17,2026-03-30 17:04:00,Groceries,Card,Chennai,POS,POS Terminal,false,false,Premium,21,Mumbai
+900044,1010,1629.81,2026-04-30 08:50:00,Electronics,Wallet,Bengaluru,Web,Windows,false,false,Standard,98,Vijayawada
+900045,1019,1661.88,2026-02-06 01:10:00,Utilities,UPI,Mumbai,POS,POS Terminal,false,false,Standard,71,Chennai
+900046,1035,428.77,2026-09-14 17:31:00,Dining,UPI,Hyderabad,Web,Android,false,false,Standard,104,Chennai
+900047,1098,891.16,2026-05-18 18:02:00,Dining,Card,Pune,ATM,POS Terminal,false,false,Student,60,Bengaluru
+900048,1012,249.58,2026-08-29 11:26:00,Utilities,Bank Transfer,Delhi,ATM,Android,false,false,Student,36,Bengaluru
+900049,1059,401.5,2026-02-15 10:16:00,Utilities,ATM,Hyderabad,Web,Windows,false,false,Premium,65,Hyderabad
+900050,1080,901.46,2026-09-13 20:28:00,Utilities,ATM,Hyderabad,Mobile App,iOS,false,false,Premium,76,Bengaluru
+900051,1091,153.19,2026-03-23 09:35:00,Electronics,ATM,Hyderabad,Web,POS Terminal,false,false,Business,60,Vijayawada
+900052,1092,65.59,2026-05-30 16:45:00,Travel,ATM,Bengaluru,Web,Android,false,false,Standard,87,Delhi
+900053,1036,998.43,2026-08-01 10:59:00,Utilities,Card,Mumbai,ATM,Windows,true,false,Business,35,Hyderabad
+900054,1043,491.93,2026-10-10 17:24:00,Healthcare,Card,Vijayawada,ATM,Android,false,false,Business,115,Pune
+900055,1041,1191.75,2026-08-31 22:58:00,Travel,ATM,Hyderabad,Web,Windows,false,false,Premium,32,Delhi
+900056,1013,983.78,2026-08-14 03:33:00,Electronics,Bank Transfer,Vijayawada,ATM,Windows,false,false,Premium,98,Chennai
+900057,1081,690.21,2026-09-07 17:02:00,Fuel,UPI,Mumbai,Mobile App,Android,false,false,Standard,10,Delhi
+900058,1057,1040.09,2026-03-27 22:19:00,Healthcare,Wallet,Delhi,Web,iOS,false,false,Standard,93,Delhi
+900059,1023,307.26,2026-02-10 19:55:00,Fuel,ATM,Delhi,POS,POS Terminal,false,false,Standard,110,Bengaluru
+900060,1033,264.23,2026-01-05 14:57:00,Dining,ATM,Delhi,POS,POS Terminal,true,false,Premium,88,Chennai
+900061,1039,526.37,2026-04-12 12:54:00,Dining,UPI,Vijayawada,ATM,Windows,false,false,Business,51,Delhi
+900062,1002,810.17,2026-10-17 21:49:00,Dining,Card,Pune,POS,iOS,false,false,Student,32,Bengaluru
+900063,1082,1456.06,2026-04-08 19:16:00,Electronics,UPI,Chennai,ATM,Android,false,false,Standard,30,Hyderabad
+900064,1075,221.9,2026-07-06 23:08:00,Travel,Wallet,Chennai,POS,iOS,false,false,Business,86,Delhi
+900065,1033,516.52,2026-09-04 09:47:00,Healthcare,Wallet,Chennai,Mobile App,POS Terminal,false,false,Premium,88,Chennai
+900066,1002,439.94,2026-05-16 17:07:00,Online Shopping,UPI,Delhi,Web,POS Terminal,false,false,Student,32,Bengaluru
+900067,1004,882.16,2026-10-15 10:58:00,Dining,ATM,Hyderabad,Web,Android,false,false,Standard,76,Mumbai
+900068,1005,194.49,2026-06-05 15:07:00,Healthcare,Wallet,Delhi,Web,POS Terminal,false,false,Standard,4,Hyderabad
+900069,1084,29.18,2026-02-20 15:39:00,Utilities,ATM,Bengaluru,POS,Android,true,false,Standard,66,Bengaluru
+900070,1088,1720.54,2026-07-08 17:57:00,Electronics,ATM,Hyderabad,Web,Android,false,false,Business,104,Mumbai
+900071,1007,950.97,2026-06-20 07:08:00,Fuel,Card,Chennai,Web,Android,false,false,Standard,72,Bengaluru
+900072,1036,418.04,2026-03-16 04:34:00,Fuel,Wallet,Chennai,Mobile App,iOS,false,true,Business,35,Hyderabad
+900073,1034,474.53,2026-01-27 04:47:00,Online Shopping,Wallet,Pune,Mobile App,POS Terminal,true,false,Standard,30,Vijayawada
+900074,1065,773.8,2026-04-24 19:02:00,Utilities,ATM,Mumbai,Mobile App,POS Terminal,false,false,Student,113,Vijayawada
+900075,1092,104.33,2026-08-16 02:57:00,Online Shopping,ATM,Pune,POS,POS Terminal,true,false,Standard,87,Delhi
+900076,1065,4520.38,2026-08-09 03:50:00,Fuel,ATM,Mumbai,Web,POS Terminal,false,false,Student,113,Vijayawada
+900077,1044,912.05,2026-08-21 12:26:00,Travel,ATM,Hyderabad,Mobile App,Android,false,false,Business,47,Bengaluru
+900078,1012,3861.23,2026-08-10 03:47:00,Online Shopping,UPI,Mumbai,POS,POS Terminal,false,false,Student,36,Bengaluru
+900079,1093,394.24,2026-01-27 09:38:00,Utilities,Card,Vijayawada,Mobile App,Windows,false,false,Standard,8,Mumbai
+900080,1072,350.09,2026-07-08 03:48:00,Groceries,Wallet,Delhi,POS,Android,false,false,Student,68,Vijayawada
+900081,1024,348.37,2026-05-20 22:48:00,Healthcare,UPI,Bengaluru,Mobile App,Android,true,false,Standard,49,Chennai
+900082,1096,451.33,2026-09-29 06:24:00,Electronics,UPI,Bengaluru,Web,Android,false,false,Premium,69,Mumbai
+900083,1087,885.47,2026-02-11 08:28:00,Electronics,Bank Transfer,Mumbai,Mobile App,Windows,false,false,Business,32,Vijayawada
+900084,1087,372.61,2026-09-07 16:42:00,Fuel,Bank Transfer,Bengaluru,Web,Windows,false,false,Business,32,Vijayawada
+900085,1038,540.72,2026-06-17 03:00:00,Fuel,Wallet,Pune,POS,Android,false,false,Student,28,Delhi
+900086,1051,509.08,2026-01-22 13:01:00,Healthcare,ATM,Chennai,Mobile App,POS Terminal,false,false,Business,68,Chennai
+900087,1003,1958.74,2026-06-16 05:51:00,Healthcare,UPI,Bengaluru,ATM,POS Terminal,false,false,Premium,95,Hyderabad
+900088,1068,349.5,2026-02-10 12:55:00,Electronics,Wallet,Pune,Web,Windows,false,false,Standard,11,Delhi
+900089,1045,275.88,2026-03-17 07:06:00,Electronics,Card,Vijayawada,ATM,POS Terminal,false,false,Premium,66,Mumbai
+900090,1097,5831.41,2026-10-16 18:28:00,Online Shopping,Bank Transfer,Bengaluru,ATM,Android,false,false,Premium,55,Bengaluru
+900091,1061,1668.69,2026-08-15 20:19:00,Utilities,ATM,Hyderabad,Mobile App,Windows,false,false,Premium,20,Chennai
+900092,1037,689.52,2026-02-09 20:55:00,Groceries,ATM,Vijayawada,Web,Windows,false,false,Premium,117,Pune
+900093,1078,1970.72,2026-09-01 16:09:00,Electronics,Wallet,Delhi,Web,Android,false,false,Premium,9,Chennai
+900094,1032,567.79,2026-08-13 14:33:00,Healthcare,Bank Transfer,Delhi,Mobile App,Windows,false,false,Business,35,Delhi
+900095,1009,800.1,2026-06-18 03:35:00,Travel,Bank Transfer,Hyderabad,Web,Windows,false,false,Student,104,Vijayawada
+900096,1040,774.55,2026-07-20 04:38:00,Online Shopping,Card,Delhi,Mobile App,POS Terminal,false,false,Business,19,Chennai
+900097,1066,191.53,2026-07-05 00:23:00,Travel,UPI,Chennai,Mobile App,Android,false,false,Student,31,Hyderabad
+900098,1085,650.36,2026-06-22 19:08:00,Travel,ATM,Hyderabad,ATM,Windows,false,false,Student,86,Mumbai
+900099,1087,145.4,2026-05-02 14:39:00,Dining,ATM,Vijayawada,Web,Windows,false,false,Business,32,Vijayawada
+900100,1087,3550.88,2026-10-20 14:29:00,Travel,Card,Vijayawada,Web,Windows,false,false,Business,32,Vijayawada
+900101,1007,560.07,2026-09-04 11:35:00,Utilities,Wallet,Bengaluru,ATM,Android,true,false,Standard,72,Bengaluru
+900102,1029,546.78,2026-08-19 11:59:00,Groceries,Bank Transfer,Hyderabad,POS,iOS,false,false,Standard,78,Delhi
+900103,1018,2907.97,2026-01-20 09:58:00,Utilities,Wallet,Hyderabad,Mobile App,Android,false,false,Standard,119,Mumbai
+900104,1033,3095.87,2026-04-21 04:35:00,Fuel,Bank Transfer,Hyderabad,Mobile App,iOS,false,false,Premium,88,Chennai
+900105,1054,1539.66,2026-08-23 02:07:00,Fuel,Card,Chennai,ATM,Android,false,false,Student,99,Delhi
+900106,1079,371.0,2026-06-30 07:36:00,Electronics,Wallet,Pune,Mobile App,POS Terminal,true,false,Standard,76,Pune
+900107,1061,222.01,2026-01-23 20:24:00,Online Shopping,Card,Hyderabad,POS,Windows,false,false,Premium,20,Chennai
+900108,1083,2261.13,2026-03-31 21:29:00,Utilities,UPI,Chennai,Web,Android,false,false,Standard,111,Chennai
+900109,1026,334.53,2026-01-22 10:59:00,Groceries,Card,Chennai,POS,Android,false,false,Student,21,Chennai
+900110,1084,1237.5,2026-06-19 08:07:00,Healthcare,Bank Transfer,Bengaluru,ATM,POS Terminal,false,false,Standard,66,Bengaluru
+900111,1048,177.72,2026-09-23 08:51:00,Travel,Wallet,Chennai,POS,Android,false,false,Premium,102,Delhi
+900112,1011,256.76,2026-06-17 21:18:00,Online Shopping,ATM,Hyderabad,POS,POS Terminal,false,false,Premium,90,Mumbai
+900113,1036,760.11,2026-01-30 02:42:00,Groceries,Card,Vijayawada,ATM,Android,false,false,Business,35,Hyderabad
+900114,1017,773.85,2026-02-04 07:49:00,Travel,ATM,Chennai,POS,POS Terminal,false,false,Standard,94,Mumbai
+900115,1098,587.31,2026-02-09 18:08:00,Electronics,UPI,Delhi,Web,POS Terminal,false,false,Student,60,Bengaluru
+900116,1067,331.21,2026-07-18 17:07:00,Dining,ATM,Bengaluru,Mobile App,iOS,false,false,Premium,113,Pune
+900117,1010,1117.6,2026-08-20 05:57:00,Travel,Card,Vijayawada,POS,iOS,false,false,Standard,98,Vijayawada
+900118,1016,621.52,2026-04-13 04:15:00,Electronics,UPI,Chennai,ATM,POS Terminal,false,false,Student,78,Chennai
+900119,1068,621.55,2026-07-30 13:52:00,Utilities,Wallet,Chennai,Web,iOS,false,false,Standard,11,Delhi
+900120,1099,274.48,2026-03-08 13:32:00,Fuel,Bank Transfer,Pune,POS,Android,false,false,Standard,57,Vijayawada
+900121,1033,215.14,2026-04-11 20:35:00,Travel,Wallet,Pune,Web,iOS,false,false,Premium,88,Chennai
+900122,1085,764.91,2026-06-22 18:02:00,Groceries,ATM,Delhi,POS,Windows,false,false,Student,86,Mumbai
+900123,1062,388.63,2026-05-06 21:25:00,Utilities,ATM,Bengaluru,POS,iOS,true,false,Premium,70,Vijayawada
+900124,1041,366.11,2026-06-13 23:55:00,Electronics,Bank Transfer,Bengaluru,ATM,Android,false,false,Premium,32,Delhi
+900125,1035,226.55,2026-08-19 07:09:00,Fuel,Card,Vijayawada,POS,Windows,false,false,Standard,104,Chennai
+900126,1025,356.48,2026-03-23 15:32:00,Healthcare,Wallet,Mumbai,Web,iOS,false,false,Business,82,Vijayawada
+900127,1075,235.39,2026-06-30 01:03:00,Dining,Wallet,Hyderabad,Mobile App,POS Terminal,false,false,Business,86,Delhi
+900128,1018,1035.36,2026-05-16 23:23:00,Fuel,Bank Transfer,Pune,POS,Android,false,false,Standard,119,Mumbai
+900129,1050,846.12,2026-09-16 14:48:00,Travel,UPI,Mumbai,POS,Windows,false,false,Business,49,Pune
+900130,1072,1661.0,2026-07-07 04:12:00,Utilities,Wallet,Mumbai,Web,iOS,true,true,Student,68,Vijayawada
+900131,1042,341.35,2026-06-13 05:25:00,Dining,ATM,Vijayawada,Mobile App,Windows,false,false,Student,96,Pune
+900132,1043,2564.8,2026-02-26 13:37:00,Fuel,UPI,Pune,ATM,iOS,false,false,Business,115,Pune
+900133,1068,726.42,2026-07-14 04:52:00,Groceries,ATM,Chennai,ATM,iOS,false,false,Standard,11,Delhi
+900134,1053,278.81,2026-04-15 13:32:00,Online Shopping,Card,Mumbai,POS,Windows,false,false,Standard,88,Pune
+900135,1087,289.86,2026-05-16 19:30:00,Dining,Bank Transfer,Delhi,Web,POS Terminal,false,false,Business,32,Vijayawada
+900136,1041,365.65,2026-09-03 11:35:00,Healthcare,Bank Transfer,Vijayawada,Web,Windows,false,false,Premium,32,Delhi
+900137,1006,355.88,2026-05-28 22:05:00,Fuel,Wallet,Chennai,POS,iOS,false,false,Premium,30,Pune
+900138,1014,313.53,2026-10-28 07:15:00,Utilities,UPI,Delhi,Web,Android,true,false,Standard,12,Mumbai
+900139,1071,521.39,2026-03-22 13:41:00,Groceries,UPI,Delhi,Web,Android,false,false,Business,71,Bengaluru
+900140,1023,397.36,2026-08-02 05:59:00,Dining,UPI,Hyderabad,POS,Android,false,false,Standard,110,Bengaluru
+900141,1043,621.48,2026-05-26 14:41:00,Utilities,Bank Transfer,Bengaluru,Mobile App,Windows,false,false,Business,115,Pune
+900142,1021,381.17,2026-08-23 20:16:00,Healthcare,ATM,Pune,POS,Android,false,false,Standard,6,Delhi
+900143,1052,316.58,2026-02-18 05:08:00,Utilities,Bank Transfer,Chennai,POS,Android,true,false,Standard,88,Delhi
+900144,1034,329.75,2026-07-04 22:15:00,Dining,UPI,Delhi,POS,Windows,false,false,Standard,30,Vijayawada
+900145,1079,511.93,2026-04-24 07:08:00,Utilities,Wallet,Vijayawada,Web,iOS,false,false,Standard,76,Pune
+900146,1088,582.98,2026-02-11 16:28:00,Fuel,Wallet,Pune,Web,iOS,false,false,Business,104,Mumbai
+900147,1042,1455.87,2026-09-24 14:07:00,Utilities,UPI,Mumbai,Web,POS Terminal,false,false,Student,96,Pune
+900148,1059,403.09,2026-10-16 01:35:00,Groceries,Card,Pune,Mobile App,Android,false,false,Premium,65,Hyderabad
+900149,1055,582.68,2026-06-26 22:04:00,Utilities,UPI,Chennai,ATM,iOS,false,false,Student,15,Chennai
+900150,1099,803.18,2026-03-11 20:46:00,Healthcare,ATM,Hyderabad,Web,Windows,false,false,Standard,57,Vijayawada
+900151,1016,793.0,2026-04-02 17:25:00,Dining,ATM,Delhi,ATM,POS Terminal,false,true,Student,78,Chennai
+900152,1030,282.55,2026-05-07 14:22:00,Groceries,ATM,Pune,Mobile App,iOS,false,false,Premium,69,Delhi
+900153,1027,757.43,2026-02-04 03:38:00,Fuel,Wallet,Bengaluru,Mobile App,iOS,false,false,Student,27,Delhi
+900154,1065,2481.66,2026-05-29 07:52:00,Online Shopping,Card,Chennai,Web,iOS,false,false,Student,113,Vijayawada
+900155,1053,674.83,2026-06-03 08:03:00,Healthcare,Wallet,Mumbai,Mobile App,Windows,false,false,Standard,88,Pune
+900156,1083,908.88,2026-07-15 16:20:00,Utilities,Card,Vijayawada,Web,Windows,false,false,Standard,111,Chennai
+900157,1091,170.22,2026-03-15 14:58:00,Healthcare,Card,Chennai,Web,Windows,false,false,Business,60,Vijayawada
+900158,1083,354.73,2026-02-10 14:54:00,Healthcare,Wallet,Pune,Mobile App,Android,false,false,Standard,111,Chennai
+900159,1025,648.42,2026-10-28 23:42:00,Groceries,Card,Bengaluru,Mobile App,POS Terminal,false,false,Business,82,Vijayawada
+900160,1032,300.89,2026-04-15 12:58:00,Online Shopping,Bank Transfer,Chennai,POS,POS Terminal,false,false,Business,35,Delhi
+900161,1060,986.58,2026-02-20 23:30:00,Groceries,Wallet,Vijayawada,Web,iOS,false,false,Student,108,Delhi
+900162,1003,865.57,2026-05-14 17:59:00,Fuel,ATM,Pune,Web,POS Terminal,false,false,Premium,95,Hyderabad
+900163,1071,836.7,2026-06-22 08:48:00,Travel,Card,Delhi,ATM,iOS,false,false,Business,71,Bengaluru
+900164,1070,676.22,2026-01-31 16:02:00,Utilities,Bank Transfer,Hyderabad,ATM,POS Terminal,false,false,Premium,17,Delhi
+900165,1003,473.8,2026-01-04 17:35:00,Dining,UPI,Pune,ATM,iOS,false,false,Premium,95,Hyderabad
+900166,1014,190.21,2026-02-19 16:09:00,Healthcare,UPI,Chennai,ATM,POS Terminal,false,false,Standard,12,Mumbai
+900167,1073,90.36,2026-05-05 22:14:00,Groceries,UPI,Mumbai,ATM,POS Terminal,true,false,Business,28,Pune
+900168,1071,544.36,2026-09-01 01:40:00,Electronics,Wallet,Hyderabad,Web,iOS,false,false,Business,71,Bengaluru
+900169,1089,602.68,2026-10-18 15:17:00,Fuel,Wallet,Bengaluru,ATM,Android,false,false,Premium,13,Hyderabad
+900170,1039,1079.19,2026-03-25 18:15:00,Healthcare,Card,Vijayawada,Mobile App,Windows,false,false,Business,51,Delhi
+900171,1007,1203.5,2026-02-20 13:14:00,Healthcare,Bank Transfer,Hyderabad,POS,POS Terminal,false,false,Standard,72,Bengaluru
+900172,1063,1805.91,2026-04-27 11:35:00,Electronics,Wallet,Chennai,Web,Android,false,false,Standard,77,Chennai
+900173,1011,1329.72,2026-05-18 04:24:00,Electronics,UPI,Hyderabad,POS,POS Terminal,false,false,Premium,90,Mumbai
+900174,1047,177.71,2026-05-19 03:08:00,Electronics,UPI,Hyderabad,POS,Android,false,false,Standard,20,Delhi
+900175,1077,322.16,2026-06-16 12:00:00,Fuel,Wallet,Pune,Web,POS Terminal,true,false,Business,16,Bengaluru
+900176,1022,358.28,2026-03-13 08:19:00,Dining,ATM,Vijayawada,Mobile App,Windows,false,false,Premium,99,Chennai
+900177,1033,535.44,2026-05-07 23:40:00,Groceries,ATM,Chennai,ATM,Windows,false,false,Premium,88,Chennai
+900178,1057,2278.95,2026-06-21 13:52:00,Fuel,ATM,Chennai,Web,POS Terminal,false,false,Standard,93,Delhi
+900179,1041,1038.81,2026-05-30 23:44:00,Online Shopping,UPI,Pune,Web,iOS,false,false,Premium,32,Delhi
+900180,1088,444.44,2026-10-09 00:46:00,Electronics,ATM,Delhi,ATM,iOS,false,false,Business,104,Mumbai
+900181,1082,1287.25,2026-06-05 07:16:00,Utilities,Wallet,Mumbai,ATM,Android,false,false,Standard,30,Hyderabad
+900182,1047,170.83,2026-10-02 19:40:00,Healthcare,Bank Transfer,Vijayawada,ATM,Android,false,false,Standard,20,Delhi
+900183,1002,563.55,2026-02-20 08:14:00,Utilities,Bank Transfer,Mumbai,ATM,iOS,false,false,Student,32,Bengaluru
+900184,1045,939.44,2026-01-13 15:06:00,Utilities,Bank Transfer,Mumbai,Mobile App,POS Terminal,false,false,Premium,66,Mumbai
+900185,1093,107.27,2026-08-20 10:04:00,Electronics,Card,Delhi,Web,iOS,true,false,Standard,8,Mumbai
+900186,1071,440.83,2026-03-23 10:35:00,Travel,ATM,Mumbai,Mobile App,iOS,false,false,Business,71,Bengaluru
+900187,1058,810.79,2026-08-08 12:00:00,Electronics,Wallet,Hyderabad,Web,Windows,false,false,Student,65,Vijayawada
+900188,1042,613.13,2026-04-11 14:07:00,Electronics,Bank Transfer,Chennai,ATM,iOS,false,false,Student,96,Pune
+900189,1087,232.9,2026-06-02 19:37:00,Healthcare,ATM,Pune,Web,POS Terminal,false,false,Business,32,Vijayawada
+900190,1055,1112.01,2026-04-06 15:40:00,Travel,ATM,Chennai,Web,iOS,false,false,Student,15,Chennai
+900191,1041,528.73,2026-08-19 19:03:00,Utilities,ATM,Delhi,ATM,POS Terminal,false,false,Premium,32,Delhi
+900192,1091,962.34,2026-08-16 15:10:00,Travel,ATM,Pune,ATM,Android,false,false,Business,60,Vijayawada
+900193,1074,711.16,2026-02-28 08:49:00,Fuel,ATM,Hyderabad,Web,Windows,false,false,Premium,92,Chennai
+900194,1005,1001.71,2026-08-19 08:22:00,Healthcare,Card,Pune,Web,iOS,false,false,Standard,4,Hyderabad
+900195,1027,616.24,2026-01-31 18:22:00,Dining,Bank Transfer,Pune,POS,Android,false,false,Student,27,Delhi
+900196,1018,1042.18,2026-07-30 01:17:00,Online Shopping,Card,Vijayawada,ATM,POS Terminal,false,false,Standard,119,Mumbai
+900197,1019,746.82,2026-10-23 20:17:00,Electronics,ATM,Pune,POS,Windows,true,false,Standard,71,Chennai
+900198,1059,2070.25,2026-09-07 10:37:00,Online Shopping,UPI,Vijayawada,ATM,iOS,false,false,Premium,65,Hyderabad
+900199,1055,371.76,2026-04-19 15:17:00,Utilities,Bank Transfer,Delhi,Mobile App,Android,false,false,Student,15,Chennai
+900200,1013,47.65,2026-08-24 00:07:00,Online Shopping,Bank Transfer,Hyderabad,POS,iOS,false,false,Premium,98,Chennai
+900201,1007,2265.42,2026-07-22 20:19:00,Electronics,UPI,Bengaluru,ATM,Android,false,false,Standard,72,Bengaluru
+900202,1017,499.94,2026-04-26 16:43:00,Healthcare,Card,Mumbai,Mobile App,iOS,false,false,Standard,94,Mumbai
+900203,1050,222.75,2026-02-15 23:51:00,Travel,Card,Hyderabad,Mobile App,iOS,false,false,Business,49,Pune
+900204,1057,687.48,2026-06-29 23:13:00,Fuel,UPI,Hyderabad,Web,Android,false,false,Standard,93,Delhi
+900205,1076,390.35,2026-07-16 11:27:00,Dining,UPI,Vijayawada,POS,iOS,false,false,Student,57,Pune
+900206,1067,339.56,2026-09-18 06:47:00,Fuel,ATM,Mumbai,Mobile App,iOS,false,false,Premium,113,Pune
+900207,1064,1979.68,2026-02-06 16:56:00,Utilities,UPI,Hyderabad,Mobile App,Android,false,false,Business,3,Hyderabad
+900208,1034,559.74,2026-04-21 01:59:00,Healthcare,UPI,Delhi,Web,Windows,false,false,Standard,30,Vijayawada
+900209,1011,247.07,2026-06-08 02:32:00,Electronics,Bank Transfer,Delhi,ATM,iOS,false,false,Premium,90,Mumbai
+900210,1008,452.57,2026-05-06 02:59:00,Travel,UPI,Hyderabad,Web,Android,false,false,Business,29,Mumbai
+900211,1021,632.59,2026-09-12 11:33:00,Dining,UPI,Vijayawada,Mobile App,Windows,false,false,Standard,6,Delhi
+900212,1055,804.97,2026-05-20 16:04:00,Travel,Bank Transfer,Bengaluru,POS,Android,false,false,Student,15,Chennai
+900213,1074,552.39,2026-03-01 07:47:00,Utilities,Bank Transfer,Mumbai,Web,iOS,false,false,Premium,92,Chennai
+900214,1005,742.48,2026-10-11 22:47:00,Online Shopping,Bank Transfer,Vijayawada,Mobile App,Windows,false,false,Standard,4,Hyderabad
+900215,1016,223.83,2026-09-15 21:57:00,Healthcare,UPI,Mumbai,POS,Windows,false,false,Student,78,Chennai
+900216,1042,627.36,2026-02-14 17:29:00,Utilities,Card,Delhi,Web,iOS,false,false,Student,96,Pune
+900217,1001,1127.53,2026-07-29 00:14:00,Healthcare,Bank Transfer,Hyderabad,Web,iOS,false,true,Standard,4,Delhi
+900218,1054,780.79,2026-09-09 01:09:00,Healthcare,Bank Transfer,Mumbai,Mobile App,Android,false,false,Student,99,Delhi
+900219,1065,365.15,2026-03-10 20:52:00,Travel,Card,Chennai,POS,Windows,true,false,Student,113,Vijayawada
+900220,1051,372.22,2026-06-17 10:28:00,Electronics,Card,Hyderabad,Web,POS Terminal,false,false,Business,68,Chennai
+900221,1060,2613.36,2026-06-10 13:07:00,Dining,UPI,Hyderabad,Web,Windows,false,false,Student,108,Delhi
+900222,1091,1039.42,2026-01-21 06:53:00,Healthcare,Wallet,Hyderabad,POS,Windows,false,false,Business,60,Vijayawada
+900223,1023,406.28,2026-01-16 12:54:00,Travel,UPI,Hyderabad,Mobile App,iOS,false,false,Standard,110,Bengaluru
+900224,1017,115.38,2026-04-12 12:23:00,Electronics,Card,Delhi,ATM,iOS,false,false,Standard,94,Mumbai
+900225,1012,1728.92,2026-06-19 03:02:00,Healthcare,ATM,Bengaluru,POS,iOS,false,false,Student,36,Bengaluru
+900226,1024,695.04,2026-05-21 08:28:00,Utilities,UPI,Hyderabad,POS,POS Terminal,false,false,Standard,49,Chennai
+900227,1018,1905.4,2026-08-03 06:41:00,Groceries,ATM,Vijayawada,POS,POS Terminal,false,false,Standard,119,Mumbai
+900228,1070,632.33,2026-09-06 11:58:00,Fuel,UPI,Vijayawada,POS,Android,false,false,Premium,17,Delhi
+900229,1061,644.85,2026-09-29 11:49:00,Fuel,Bank Transfer,Pune,Mobile App,iOS,false,false,Premium,20,Chennai
+900230,1074,159.61,2026-07-18 11:59:00,Groceries,Bank Transfer,Pune,Web,iOS,false,false,Premium,92,Chennai
+900231,1064,535.8,2026-10-05 09:11:00,Utilities,UPI,Chennai,Web,iOS,false,false,Business,3,Hyderabad
+900232,1044,1694.57,2026-04-01 10:03:00,Electronics,Bank Transfer,Chennai,POS,iOS,false,false,Business,47,Bengaluru
+900233,1021,719.76,2026-08-12 20:31:00,Online Shopping,Card,Delhi,Web,POS Terminal,false,false,Standard,6,Delhi
+900234,1040,1700.52,2026-05-31 04:11:00,Groceries,Card,Pune,POS,iOS,false,false,Business,19,Chennai
+900235,1082,539.8,2026-10-17 03:59:00,Online Shopping,Card,Delhi,Mobile App,Windows,true,false,Standard,30,Hyderabad
+900236,1058,359.67,2026-01-06 08:13:00,Groceries,UPI,Mumbai,ATM,POS Terminal,false,false,Student,65,Vijayawada
+900237,1022,360.5,2026-07-31 15:56:00,Fuel,Card,Mumbai,Mobile App,Android,true,false,Premium,99,Chennai
+900238,1038,240.91,2026-01-11 10:16:00,Electronics,Bank Transfer,Pune,ATM,Android,false,false,Student,28,Delhi
+900239,1056,489.14,2026-03-26 19:56:00,Healthcare,Wallet,Delhi,POS,Windows,false,false,Business,21,Mumbai
+900240,1039,454.97,2026-05-02 03:03:00,Electronics,Bank Transfer,Vijayawada,ATM,iOS,false,true,Business,51,Delhi
+900241,1013,520.02,2026-01-14 06:10:00,Dining,UPI,Delhi,ATM,iOS,false,false,Premium,98,Chennai
+900242,1048,486.07,2026-07-15 11:11:00,Dining,Wallet,Hyderabad,Web,Android,false,false,Premium,102,Delhi
+900243,1011,915.84,2026-06-26 17:26:00,Utilities,Wallet,Bengaluru,ATM,Windows,false,false,Premium,90,Mumbai
+900244,1011,562.61,2026-07-22 22:02:00,Travel,UPI,Vijayawada,ATM,iOS,false,false,Premium,90,Mumbai
+900245,1022,776.1,2026-04-19 06:08:00,Dining,Bank Transfer,Delhi,Mobile App,Android,false,false,Premium,99,Chennai
+900246,1050,375.82,2026-10-12 12:35:00,Healthcare,UPI,Mumbai,Web,iOS,false,false,Business,49,Pune
+900247,1073,189.63,2026-10-26 03:59:00,Travel,Bank Transfer,Mumbai,Web,POS Terminal,false,false,Business,28,Pune
+900248,1005,110.65,2026-07-22 10:44:00,Groceries,Bank Transfer,Vijayawada,POS,Windows,false,false,Standard,4,Hyderabad
+900249,1036,328.89,2026-09-09 22:43:00,Electronics,Card,Mumbai,Web,POS Terminal,false,false,Business,35,Hyderabad
+900250,1095,443.07,2026-09-06 16:55:00,Healthcare,Card,Vijayawada,Mobile App,iOS,false,false,Standard,32,Bengaluru
+900251,1025,416.06,2026-04-13 01:15:00,Healthcare,UPI,Delhi,Mobile App,iOS,false,false,Business,82,Vijayawada
+900252,1048,669.34,2026-09-08 19:28:00,Electronics,Bank Transfer,Hyderabad,ATM,Android,false,false,Premium,102,Delhi
+900253,1021,312.56,2026-10-20 06:54:00,Groceries,UPI,Mumbai,Web,iOS,false,false,Standard,6,Delhi
+900254,1077,10249.63,2026-01-05 07:16:00,Dining,ATM,Mumbai,POS,POS Terminal,false,false,Business,16,Bengaluru
+900255,1033,2584.32,2026-04-22 14:19:00,Online Shopping,Wallet,Delhi,POS,Windows,false,false,Premium,88,Chennai
+900256,1088,384.0,2026-02-25 15:04:00,Dining,Card,Bengaluru,Web,Android,false,false,Business,104,Mumbai
+900257,1077,1482.24,2026-07-26 21:20:00,Dining,ATM,Mumbai,ATM,Android,false,false,Business,16,Bengaluru
+900258,1075,853.89,2026-10-20 06:21:00,Online Shopping,Wallet,Chennai,Web,iOS,false,false,Business,86,Delhi
+900259,1038,2108.11,2026-02-19 15:08:00,Online Shopping,UPI,Bengaluru,POS,iOS,false,false,Student,28,Delhi
+900260,1096,1408.95,2026-06-07 13:50:00,Electronics,ATM,Hyderabad,Mobile App,POS Terminal,false,false,Premium,69,Mumbai
+900261,1025,985.75,2026-09-14 03:55:00,Travel,Card,Bengaluru,POS,POS Terminal,false,false,Business,82,Vijayawada
+900262,1073,1077.77,2026-08-23 04:20:00,Travel,Bank Transfer,Delhi,Mobile App,Android,true,false,Business,28,Pune
+900263,1058,1475.49,2026-05-21 06:48:00,Electronics,Card,Pune,ATM,POS Terminal,false,false,Student,65,Vijayawada
+900264,1052,571.8,2026-08-08 15:24:00,Fuel,Bank Transfer,Chennai,Web,Android,true,false,Standard,88,Delhi
+900265,1050,350.95,2026-09-15 18:19:00,Online Shopping,ATM,Delhi,Web,Windows,false,false,Business,49,Pune
+900266,1063,448.85,2026-07-03 06:10:00,Groceries,Wallet,Pune,Web,Android,false,false,Standard,77,Chennai
+900267,1047,1404.04,2026-01-20 12:56:00,Groceries,UPI,Delhi,Mobile App,Android,false,false,Standard,20,Delhi
+900268,1089,361.99,2026-03-01 13:28:00,Groceries,Bank Transfer,Mumbai,Mobile App,Windows,false,false,Premium,13,Hyderabad
+900269,1080,1920.08,2026-03-12 13:53:00,Electronics,ATM,Bengaluru,Web,Windows,false,false,Premium,76,Bengaluru
+900270,1067,461.3,2026-04-14 11:45:00,Utilities,Bank Transfer,Bengaluru,Mobile App,Android,false,false,Premium,113,Pune
+900271,1086,682.87,2026-02-15 03:53:00,Electronics,UPI,Chennai,Web,POS Terminal,false,false,Premium,70,Bengaluru
+900272,1038,257.58,2026-05-16 14:03:00,Online Shopping,ATM,Delhi,Mobile App,Android,true,false,Student,28,Delhi
+900273,1098,111.89,2026-01-24 00:54:00,Dining,UPI,Chennai,POS,iOS,false,false,Student,60,Bengaluru
+900274,1015,306.9,2026-07-25 12:29:00,Travel,UPI,Bengaluru,Mobile App,iOS,false,false,Standard,46,Vijayawada
+900275,1014,2324.17,2026-08-02 18:30:00,Online Shopping,Wallet,Hyderabad,Web,POS Terminal,false,false,Standard,12,Mumbai
+900276,1063,210.74,2026-02-27 13:28:00,Fuel,Bank Transfer,Pune,Mobile App,POS Terminal,false,false,Standard,77,Chennai
+900277,1085,1101.99,2026-05-08 15:22:00,Groceries,UPI,Delhi,Web,POS Terminal,false,false,Student,86,Mumbai
+900278,1064,833.26,2026-03-26 02:48:00,Healthcare,ATM,Vijayawada,Web,Android,false,true,Business,3,Hyderabad
+900279,1059,153.2,2026-08-16 18:28:00,Groceries,UPI,Mumbai,ATM,Android,false,false,Premium,65,Hyderabad
+900280,1072,110.4,2026-10-09 00:52:00,Fuel,ATM,Chennai,POS,Android,false,false,Student,68,Vijayawada
+900281,1029,1528.56,2026-08-21 10:35:00,Utilities,UPI,Hyderabad,Web,Android,false,false,Standard,78,Delhi
+900282,1044,278.14,2026-07-01 20:51:00,Travel,ATM,Bengaluru,ATM,Android,false,false,Business,47,Bengaluru
+900283,1033,1626.39,2026-04-11 06:07:00,Online Shopping,UPI,Vijayawada,ATM,Android,false,false,Premium,88,Chennai
+900284,1082,176.69,2026-03-05 14:29:00,Healthcare,Wallet,Mumbai,Web,iOS,false,false,Standard,30,Hyderabad
+900285,1094,1009.83,2026-03-07 03:24:00,Healthcare,Wallet,Delhi,Web,Windows,false,false,Student,103,Vijayawada
+900286,1051,940.16,2026-06-25 09:28:00,Dining,Wallet,Vijayawada,POS,iOS,false,false,Business,68,Chennai
+900287,1026,332.33,2026-04-18 19:45:00,Travel,Wallet,Pune,POS,Android,false,false,Student,21,Chennai
+900288,1098,5065.6,2026-06-30 17:30:00,Dining,ATM,Vijayawada,Mobile App,Android,false,false,Student,60,Bengaluru
+900289,1004,756.38,2026-07-15 04:03:00,Dining,Bank Transfer,Bengaluru,Mobile App,Windows,false,false,Standard,76,Mumbai
+900290,1027,934.68,2026-10-05 01:22:00,Fuel,Wallet,Mumbai,Web,Windows,false,false,Student,27,Delhi
+900291,1089,296.5,2026-01-25 12:24:00,Groceries,UPI,Delhi,POS,iOS,false,false,Premium,13,Hyderabad
+900292,1080,1108.96,2026-08-15 07:58:00,Fuel,Card,Chennai,ATM,iOS,false,false,Premium,76,Bengaluru
+900293,1088,822.34,2026-02-08 05:11:00,Dining,Card,Bengaluru,POS,Android,true,false,Business,104,Mumbai
+900294,1043,290.1,2026-08-27 22:59:00,Dining,ATM,Vijayawada,POS,Android,false,false,Business,115,Pune
+900295,1091,2372.77,2026-06-12 16:14:00,Healthcare,UPI,Chennai,Web,iOS,false,false,Business,60,Vijayawada
+900296,1085,771.05,2026-06-19 10:23:00,Groceries,UPI,Delhi,POS,POS Terminal,false,false,Student,86,Mumbai
+900297,1031,1425.86,2026-05-05 01:43:00,Dining,Wallet,Delhi,POS,Android,false,false,Premium,21,Mumbai
+900298,1067,559.07,2026-07-11 16:51:00,Online Shopping,Wallet,Hyderabad,Mobile App,iOS,false,false,Premium,113,Pune
+900299,1099,698.07,2026-10-03 17:00:00,Healthcare,UPI,Bengaluru,ATM,Android,false,false,Standard,57,Vijayawada
+900300,1096,771.26,2026-03-20 00:29:00,Dining,Wallet,Hyderabad,Web,Windows,true,false,Premium,69,Mumbai
+900301,1053,438.86,2026-07-18 14:40:00,Groceries,Wallet,Hyderabad,Mobile App,Android,false,false,Standard,88,Pune
+900302,1046,1026.61,2026-09-15 03:18:00,Utilities,ATM,Mumbai,Mobile App,POS Terminal,true,false,Standard,97,Hyderabad
+900303,1021,3549.77,2026-10-01 07:08:00,Travel,Bank Transfer,Delhi,POS,Android,false,false,Standard,6,Delhi
+900304,1071,103.98,2026-10-12 04:07:00,Electronics,Bank Transfer,Bengaluru,POS,iOS,false,false,Business,71,Bengaluru
+900305,1053,152.39,2026-09-20 04:10:00,Groceries,Wallet,Mumbai,Mobile App,Windows,false,false,Standard,88,Pune
+900306,1086,178.77,2026-02-04 08:06:00,Fuel,UPI,Chennai,Mobile App,iOS,false,false,Premium,70,Bengaluru
+900307,1041,705.36,2026-09-06 14:21:00,Online Shopping,Bank Transfer,Mumbai,Web,Android,false,false,Premium,32,Delhi
+900308,1041,1050.11,2026-05-07 07:45:00,Online Shopping,ATM,Mumbai,ATM,Windows,false,false,Premium,32,Delhi
+900309,1100,99.09,2026-06-06 15:35:00,Travel,Wallet,Bengaluru,POS,Android,true,false,Standard,7,Delhi
+900310,1094,550.84,2026-02-08 00:54:00,Fuel,UPI,Pune,POS,POS Terminal,false,false,Student,103,Vijayawada
+900311,1084,83.52,2026-03-18 11:25:00,Utilities,Wallet,Pune,Mobile App,POS Terminal,false,false,Standard,66,Bengaluru
+900312,1047,864.34,2026-09-15 00:42:00,Travel,ATM,Chennai,Mobile App,iOS,false,false,Standard,20,Delhi
+900313,1098,338.67,2026-09-07 07:04:00,Online Shopping,ATM,Mumbai,ATM,Android,false,false,Student,60,Bengaluru
+900314,1006,140.47,2026-06-15 03:45:00,Healthcare,ATM,Chennai,Mobile App,Windows,false,false,Premium,30,Pune
+900315,1049,97.81,2026-04-25 16:25:00,Groceries,Wallet,Bengaluru,ATM,iOS,false,false,Business,77,Hyderabad
+900316,1030,365.67,2026-02-09 16:41:00,Electronics,Card,Mumbai,POS,Android,false,false,Premium,69,Delhi
+900317,1062,810.3,2026-09-03 15:13:00,Travel,Wallet,Pune,Web,iOS,false,false,Premium,70,Vijayawada
+900318,1081,612.89,2026-09-20 01:57:00,Healthcare,Wallet,Pune,Mobile App,Windows,false,false,Standard,10,Delhi
+900319,1011,1162.18,2026-04-21 14:38:00,Dining,Card,Delhi,POS,POS Terminal,false,false,Premium,90,Mumbai
+900320,1077,446.58,2026-02-05 07:24:00,Healthcare,Card,Pune,Mobile App,iOS,false,false,Business,16,Bengaluru
+900321,1061,836.91,2026-01-20 17:32:00,Groceries,ATM,Pune,ATM,Windows,false,false,Premium,20,Chennai
+900322,1006,2012.42,2026-09-29 13:14:00,Electronics,ATM,Bengaluru,POS,POS Terminal,false,false,Premium,30,Pune
+900323,1099,1814.98,2026-04-30 02:18:00,Groceries,Wallet,Pune,Mobile App,Android,false,true,Standard,57,Vijayawada
+900324,1049,348.73,2026-04-16 22:51:00,Dining,Bank Transfer,Vijayawada,ATM,Windows,false,false,Business,77,Hyderabad
+900325,1079,1065.19,2026-05-22 21:25:00,Online Shopping,Wallet,Pune,ATM,Windows,false,false,Standard,76,Pune
+900326,1040,1809.53,2026-10-23 11:49:00,Fuel,ATM,Vijayawada,Web,Android,false,false,Business,19,Chennai
+900327,1028,312.61,2026-09-18 12:50:00,Travel,ATM,Delhi,Mobile App,Android,false,false,Student,90,Delhi
+900328,1019,229.77,2026-08-30 19:27:00,Healthcare,ATM,Pune,POS,Android,false,false,Standard,71,Chennai
+900329,1100,483.94,2026-03-31 20:31:00,Dining,Card,Hyderabad,Web,iOS,false,false,Standard,7,Delhi
+900330,1087,225.65,2026-01-19 11:15:00,Healthcare,Wallet,Bengaluru,Mobile App,Android,false,false,Business,32,Vijayawada
+900331,1012,226.65,2026-10-09 09:46:00,Groceries,Bank Transfer,Bengaluru,ATM,Android,false,false,Student,36,Bengaluru
+900332,1072,411.65,2026-02-07 16:18:00,Dining,ATM,Mumbai,ATM,iOS,false,false,Student,68,Vijayawada
+900333,1097,470.23,2026-06-23 14:43:00,Electronics,ATM,Delhi,Web,iOS,true,false,Premium,55,Bengaluru
+900334,1041,654.58,2026-07-31 11:33:00,Healthcare,Bank Transfer,Hyderabad,Web,POS Terminal,false,false,Premium,32,Delhi
+900335,1041,625.95,2026-07-01 06:57:00,Fuel,ATM,Delhi,Web,iOS,false,false,Premium,32,Delhi
+900336,1095,1219.74,2026-05-04 08:13:00,Electronics,ATM,Pune,Mobile App,Android,false,false,Standard,32,Bengaluru
+900337,1062,242.77,2026-07-10 19:20:00,Utilities,Card,Vijayawada,POS,POS Terminal,false,false,Premium,70,Vijayawada
+900338,1029,1024.27,2026-10-23 04:03:00,Travel,ATM,Hyderabad,ATM,Windows,false,true,Standard,78,Delhi
+900339,1089,187.57,2026-01-05 00:43:00,Dining,Card,Pune,POS,iOS,false,false,Premium,13,Hyderabad
+900340,1035,360.32,2026-08-30 19:21:00,Online Shopping,Bank Transfer,Vijayawada,ATM,Windows,false,false,Standard,104,Chennai
+900341,1058,3095.08,2026-04-03 18:08:00,Healthcare,Card,Bengaluru,Web,POS Terminal,false,false,Student,65,Vijayawada
+900342,1002,839.55,2026-04-01 13:31:00,Dining,Wallet,Vijayawada,Mobile App,POS Terminal,false,false,Student,32,Bengaluru
+900343,1013,1374.19,2026-03-25 01:13:00,Online Shopping,Bank Transfer,Chennai,POS,Windows,false,false,Premium,98,Chennai
+900344,1045,265.72,2026-01-11 13:07:00,Travel,Bank Transfer,Chennai,POS,POS Terminal,false,false,Premium,66,Mumbai
+900345,1100,755.41,2026-08-17 02:24:00,Online Shopping,ATM,Delhi,ATM,Android,false,false,Standard,7,Delhi
+900346,1011,237.47,2026-03-24 10:14:00,Healthcare,Bank Transfer,Mumbai,POS,POS Terminal,false,false,Premium,90,Mumbai
+900347,1053,762.68,2026-03-27 05:54:00,Electronics,ATM,Pune,Mobile App,Android,false,false,Standard,88,Pune
+900348,1099,664.57,2026-07-23 16:48:00,Fuel,Card,Delhi,POS,POS Terminal,false,false,Standard,57,Vijayawada
+900349,1081,3322.42,2026-03-06 04:33:00,Dining,Wallet,Mumbai,Web,iOS,false,false,Standard,10,Delhi
+900350,1076,881.0,2026-08-22 20:47:00,Dining,Bank Transfer,Mumbai,Web,Android,false,false,Student,57,Pune
+900351,1057,319.74,2026-06-07 11:26:00,Travel,Bank Transfer,Chennai,ATM,Android,true,false,Standard,93,Delhi
+900352,1089,143.93,2026-09-09 15:19:00,Groceries,Wallet,Chennai,Web,POS Terminal,false,false,Premium,13,Hyderabad
+900353,1072,75.36,2026-08-12 12:15:00,Dining,UPI,Mumbai,Web,Windows,false,false,Student,68,Vijayawada
+900354,1037,480.1,2026-09-30 08:26:00,Online Shopping,UPI,Bengaluru,Mobile App,Android,false,false,Premium,117,Pune
+900355,1024,237.66,2026-02-22 09:17:00,Fuel,Bank Transfer,Mumbai,POS,POS Terminal,true,true,Standard,49,Chennai
+900356,1048,856.68,2026-08-26 22:50:00,Utilities,Card,Bengaluru,POS,POS Terminal,false,false,Premium,102,Delhi
+900357,1002,94.18,2026-03-04 22:15:00,Fuel,ATM,Mumbai,POS,Windows,true,false,Student,32,Bengaluru
+900358,1021,594.19,2026-01-22 23:59:00,Online Shopping,UPI,Vijayawada,Web,Android,false,false,Standard,6,Delhi
+900359,1031,267.88,2026-08-11 10:00:00,Groceries,UPI,Pune,ATM,iOS,true,false,Premium,21,Mumbai
+900360,1048,544.36,2026-02-15 07:10:00,Groceries,UPI,Chennai,Web,Android,false,false,Premium,102,Delhi
+900361,1017,4179.62,2026-09-07 07:20:00,Healthcare,Bank Transfer,Delhi,Web,Windows,false,false,Standard,94,Mumbai
+900362,1006,664.68,2026-09-06 22:28:00,Online Shopping,Bank Transfer,Delhi,ATM,Windows,false,false,Premium,30,Pune
+900363,1077,594.26,2026-10-11 05:04:00,Utilities,UPI,Vijayawada,ATM,iOS,false,false,Business,16,Bengaluru
+900364,1003,405.22,2026-07-06 19:15:00,Fuel,Wallet,Delhi,ATM,iOS,false,false,Premium,95,Hyderabad
+900365,1079,695.46,2026-05-25 10:26:00,Travel,Card,Vijayawada,Mobile App,iOS,false,false,Standard,76,Pune
+900366,1014,388.7,2026-09-06 06:06:00,Groceries,Bank Transfer,Bengaluru,Mobile App,Android,false,false,Standard,12,Mumbai
+900367,1027,2322.88,2026-09-09 02:29:00,Groceries,Wallet,Chennai,Mobile App,Android,false,false,Student,27,Delhi
+900368,1039,578.43,2026-02-09 06:33:00,Travel,Wallet,Delhi,ATM,Android,false,false,Business,51,Delhi
+900369,1099,450.16,2026-10-23 11:43:00,Travel,Wallet,Mumbai,POS,iOS,false,false,Standard,57,Vijayawada
+900370,1069,353.93,2026-08-15 11:57:00,Online Shopping,Wallet,Bengaluru,Web,POS Terminal,false,false,Business,105,Hyderabad
+900371,1099,460.72,2026-10-09 23:16:00,Dining,Wallet,Hyderabad,Web,Windows,false,true,Standard,57,Vijayawada
+900372,1001,2702.66,2026-06-03 07:13:00,Travel,UPI,Hyderabad,ATM,Windows,false,false,Standard,4,Delhi
+900373,1020,1214.32,2026-03-12 08:23:00,Healthcare,Wallet,Bengaluru,Mobile App,Windows,false,false,Student,74,Bengaluru
+900374,1062,939.48,2026-03-30 15:52:00,Healthcare,UPI,Vijayawada,Mobile App,Windows,false,false,Premium,70,Vijayawada
+900375,1045,394.81,2026-08-11 13:59:00,Healthcare,UPI,Chennai,Mobile App,Windows,false,true,Premium,66,Mumbai
+900376,1070,547.17,2026-10-17 04:20:00,Healthcare,ATM,Vijayawada,Mobile App,iOS,true,false,Premium,17,Delhi
+900377,1056,611.57,2026-05-29 12:09:00,Healthcare,Card,Vijayawada,Web,POS Terminal,false,false,Business,21,Mumbai
+900378,1072,729.54,2026-04-12 15:25:00,Fuel,Card,Hyderabad,POS,POS Terminal,false,false,Student,68,Vijayawada
+900379,1042,862.65,2026-10-22 02:07:00,Groceries,Bank Transfer,Bengaluru,POS,POS Terminal,false,false,Student,96,Pune
+900380,1080,1279.84,2026-03-16 14:02:00,Electronics,UPI,Delhi,Mobile App,iOS,false,false,Premium,76,Bengaluru
+900381,1080,158.16,2026-03-17 09:00:00,Online Shopping,Card,Delhi,Web,iOS,false,false,Premium,76,Bengaluru
+900382,1070,494.21,2026-09-25 08:35:00,Groceries,ATM,Pune,Mobile App,Windows,false,false,Premium,17,Delhi
+900383,1022,1752.4,2026-01-31 09:12:00,Groceries,UPI,Mumbai,POS,Windows,true,false,Premium,99,Chennai
+900384,1014,1429.29,2026-01-10 09:55:00,Electronics,Bank Transfer,Mumbai,Mobile App,iOS,false,false,Standard,12,Mumbai
+900385,1026,237.75,2026-09-14 14:35:00,Travel,UPI,Chennai,POS,Windows,false,false,Student,21,Chennai
+900386,1081,376.56,2026-06-04 07:32:00,Groceries,Wallet,Chennai,Web,iOS,false,false,Standard,10,Delhi
+900387,1044,194.38,2026-07-21 21:08:00,Fuel,ATM,Bengaluru,Web,POS Terminal,false,false,Business,47,Bengaluru
+900388,1040,106.07,2026-06-18 14:34:00,Fuel,Card,Chennai,Web,POS Terminal,false,false,Business,19,Chennai
+900389,1099,613.34,2026-03-16 20:59:00,Electronics,Card,Chennai,Web,Android,true,false,Standard,57,Vijayawada
+900390,1098,165.08,2026-06-13 13:26:00,Dining,Card,Vijayawada,Web,Android,false,false,Student,60,Bengaluru
+900391,1017,829.34,2026-04-05 00:48:00,Groceries,Bank Transfer,Hyderabad,ATM,iOS,false,false,Standard,94,Mumbai
+900392,1065,146.05,2026-08-29 22:41:00,Fuel,Card,Hyderabad,ATM,Android,false,false,Student,113,Vijayawada
+900393,1035,758.89,2026-07-31 07:47:00,Utilities,Wallet,Mumbai,POS,POS Terminal,false,false,Standard,104,Chennai
+900394,1032,416.21,2026-08-07 12:49:00,Groceries,Wallet,Hyderabad,ATM,POS Terminal,false,false,Business,35,Delhi
+900395,1006,296.31,2026-05-06 16:34:00,Groceries,Card,Chennai,ATM,POS Terminal,false,false,Premium,30,Pune
+900396,1039,399.63,2026-05-27 14:10:00,Travel,ATM,Vijayawada,ATM,Android,true,false,Business,51,Delhi
+900397,1093,772.92,2026-09-14 03:11:00,Travel,ATM,Pune,Web,POS Terminal,false,false,Standard,8,Mumbai
+900398,1012,1205.99,2026-05-09 10:44:00,Electronics,UPI,Delhi,ATM,Windows,false,false,Student,36,Bengaluru
+900399,1011,669.13,2026-09-26 22:24:00,Travel,Bank Transfer,Pune,Web,iOS,false,false,Premium,90,Mumbai
+900400,1019,454.95,2026-04-02 22:03:00,Travel,UPI,Bengaluru,Web,Android,false,false,Standard,71,Chennai
+900401,1080,540.61,2026-05-10 00:29:00,Utilities,Card,Bengaluru,ATM,POS Terminal,false,false,Premium,76,Bengaluru
+900402,1053,668.23,2026-08-15 02:38:00,Fuel,UPI,Bengaluru,Web,Android,false,false,Standard,88,Pune
+900403,1084,2808.86,2026-06-28 01:09:00,Electronics,UPI,Hyderabad,ATM,iOS,false,false,Standard,66,Bengaluru
+900404,1021,1130.09,2026-05-26 19:42:00,Utilities,Wallet,Chennai,Mobile App,Android,false,false,Standard,6,Delhi
+900405,1099,153.03,2026-06-03 10:23:00,Online Shopping,Wallet,Mumbai,Web,iOS,false,false,Standard,57,Vijayawada
+900406,1079,1416.57,2026-01-30 03:36:00,Dining,ATM,Pune,POS,Windows,false,false,Standard,76,Pune
+900407,1068,3009.95,2026-10-22 19:22:00,Utilities,ATM,Vijayawada,Web,iOS,false,false,Standard,11,Delhi
+900408,1091,180.98,2026-05-29 06:00:00,Fuel,Wallet,Mumbai,ATM,Android,false,false,Business,60,Vijayawada
+900409,1043,286.51,2026-06-29 17:51:00,Online Shopping,UPI,Hyderabad,POS,Windows,false,false,Business,115,Pune
+900410,1051,1028.72,2026-10-19 19:01:00,Utilities,ATM,Vijayawada,Mobile App,iOS,false,false,Business,68,Chennai
+900411,1062,2012.86,2026-03-21 20:29:00,Healthcare,UPI,Vijayawada,POS,Windows,false,false,Premium,70,Vijayawada
+900412,1072,651.2,2026-10-02 00:13:00,Electronics,Card,Chennai,Mobile App,Windows,false,false,Student,68,Vijayawada
+900413,1049,665.68,2026-10-01 05:36:00,Dining,Bank Transfer,Delhi,Mobile App,Windows,true,false,Business,77,Hyderabad
+900414,1053,260.07,2026-02-14 15:56:00,Dining,Card,Hyderabad,POS,Android,false,false,Standard,88,Pune
+900415,1100,570.24,2026-04-14 02:28:00,Online Shopping,ATM,Delhi,POS,Windows,false,false,Standard,7,Delhi
+900416,1019,169.29,2026-02-20 16:43:00,Dining,UPI,Delhi,Mobile App,Windows,false,false,Standard,71,Chennai
+900417,1060,2738.55,2026-01-24 03:33:00,Fuel,Bank Transfer,Bengaluru,Web,Windows,true,false,Student,108,Delhi
+900418,1036,491.25,2026-09-30 10:49:00,Groceries,Wallet,Pune,Mobile App,iOS,false,false,Business,35,Hyderabad
+900419,1070,1639.31,2026-06-29 17:20:00,Online Shopping,Wallet,Mumbai,Mobile App,iOS,false,false,Premium,17,Delhi
+900420,1004,474.24,2026-08-30 21:03:00,Utilities,Wallet,Chennai,POS,Windows,false,false,Standard,76,Mumbai
+900421,1026,1140.27,2026-10-01 02:59:00,Utilities,UPI,Mumbai,POS,POS Terminal,false,false,Student,21,Chennai
+900422,1061,2334.27,2026-04-29 07:09:00,Online Shopping,Bank Transfer,Mumbai,ATM,Android,false,false,Premium,20,Chennai
+900423,1009,439.79,2026-09-01 03:22:00,Travel,Wallet,Hyderabad,ATM,Android,false,false,Student,104,Vijayawada
+900424,1042,1431.24,2026-10-12 20:04:00,Fuel,Wallet,Bengaluru,ATM,POS Terminal,false,false,Student,96,Pune
+900425,1009,922.16,2026-06-24 06:52:00,Online Shopping,Wallet,Delhi,Web,iOS,false,false,Student,104,Vijayawada
+900426,1085,4040.63,2026-02-09 23:59:00,Online Shopping,Wallet,Hyderabad,ATM,iOS,true,false,Student,86,Mumbai
+900427,1040,1069.06,2026-07-27 02:38:00,Electronics,Card,Vijayawada,Web,Android,false,false,Business,19,Chennai
+900428,1097,491.53,2026-03-17 21:09:00,Fuel,Bank Transfer,Chennai,POS,POS Terminal,false,false,Premium,55,Bengaluru
+900429,1092,459.65,2026-06-26 02:37:00,Groceries,UPI,Delhi,POS,Android,false,false,Standard,87,Delhi
+900430,1037,911.83,2026-01-16 07:27:00,Healthcare,ATM,Pune,Web,iOS,false,false,Premium,117,Pune
+900431,1061,51.45,2026-03-13 06:35:00,Travel,Card,Hyderabad,Mobile App,Android,false,false,Premium,20,Chennai
+900432,1019,771.84,2026-09-07 21:27:00,Healthcare,Bank Transfer,Bengaluru,Web,POS Terminal,false,false,Standard,71,Chennai
+900433,1078,1098.33,2026-01-04 18:31:00,Online Shopping,UPI,Hyderabad,ATM,Windows,false,false,Premium,9,Chennai
+900434,1015,727.7,2026-10-25 15:44:00,Electronics,Wallet,Pune,Mobile App,iOS,false,false,Standard,46,Vijayawada
+900435,1061,628.9,2026-02-09 21:40:00,Groceries,ATM,Mumbai,ATM,Windows,false,false,Premium,20,Chennai
+900436,1054,101.15,2026-06-30 09:18:00,Dining,UPI,Delhi,ATM,iOS,false,false,Student,99,Delhi
+900437,1074,1938.16,2026-01-27 21:18:00,Electronics,Bank Transfer,Chennai,Web,Windows,false,false,Premium,92,Chennai
+900438,1036,263.32,2026-05-12 00:47:00,Utilities,Bank Transfer,Vijayawada,Web,Windows,false,false,Business,35,Hyderabad
+900439,1090,417.8,2026-05-01 15:11:00,Travel,ATM,Vijayawada,ATM,POS Terminal,false,false,Business,46,Mumbai
+900440,1031,161.32,2026-08-14 23:40:00,Dining,UPI,Hyderabad,Web,POS Terminal,false,false,Premium,21,Mumbai
+900441,1052,2527.81,2026-09-01 09:30:00,Healthcare,ATM,Chennai,Web,POS Terminal,false,false,Standard,88,Delhi
+900442,1002,731.01,2026-05-28 14:24:00,Healthcare,Wallet,Delhi,POS,Windows,false,false,Student,32,Bengaluru
+900443,1035,805.45,2026-05-17 03:16:00,Fuel,Wallet,Chennai,Web,Windows,false,false,Standard,104,Chennai
+900444,1071,489.35,2026-01-06 21:00:00,Groceries,Wallet,Hyderabad,Mobile App,iOS,false,false,Business,71,Bengaluru
+900445,1077,108.26,2026-03-04 22:07:00,Travel,UPI,Delhi,Web,Windows,false,false,Business,16,Bengaluru
+900446,1038,164.26,2026-08-28 21:59:00,Online Shopping,Bank Transfer,Bengaluru,Mobile App,Windows,false,false,Student,28,Delhi
+900447,1100,413.69,2026-02-01 12:24:00,Utilities,UPI,Mumbai,Web,POS Terminal,false,false,Standard,7,Delhi
+900448,1023,608.08,2026-09-09 03:09:00,Utilities,Bank Transfer,Hyderabad,Mobile App,Android,false,false,Standard,110,Bengaluru
+900449,1010,983.61,2026-10-20 23:16:00,Travel,Bank Transfer,Mumbai,Mobile App,POS Terminal,true,true,Standard,98,Vijayawada
+900450,1062,3545.08,2026-08-12 12:54:00,Healthcare,ATM,Hyderabad,POS,Windows,true,false,Premium,70,Vijayawada
+900451,1088,140.04,2026-06-05 12:03:00,Utilities,Bank Transfer,Delhi,Web,iOS,false,false,Business,104,Mumbai
+900452,1071,113.44,2026-01-21 12:42:00,Online Shopping,ATM,Hyderabad,ATM,iOS,false,false,Business,71,Bengaluru
+900453,1018,1253.23,2026-01-19 06:01:00,Dining,ATM,Pune,ATM,Android,false,false,Standard,119,Mumbai
+900454,1005,877.39,2026-06-23 01:21:00,Travel,Wallet,Bengaluru,Mobile App,Android,false,false,Standard,4,Hyderabad
+900455,1095,1533.56,2026-03-14 15:41:00,Dining,UPI,Mumbai,Web,Android,false,true,Standard,32,Bengaluru
+900456,1014,985.0,2026-02-28 15:38:00,Healthcare,Bank Transfer,Hyderabad,Web,Windows,false,false,Standard,12,Mumbai
+900457,1028,407.95,2026-01-24 18:11:00,Online Shopping,Wallet,Bengaluru,ATM,iOS,false,false,Student,90,Delhi
+900458,1075,1847.85,2026-01-21 04:06:00,Utilities,UPI,Hyderabad,Mobile App,iOS,false,false,Business,86,Delhi
+900459,1012,4389.14,2026-05-26 13:44:00,Dining,Wallet,Mumbai,ATM,iOS,false,false,Student,36,Bengaluru
+900460,1023,1292.6,2026-01-20 19:11:00,Dining,Bank Transfer,Mumbai,Mobile App,iOS,true,false,Standard,110,Bengaluru
+900461,1025,2074.76,2026-03-02 16:06:00,Utilities,Card,Chennai,Mobile App,iOS,false,false,Business,82,Vijayawada
+900462,1015,2157.04,2026-03-18 21:54:00,Groceries,UPI,Delhi,POS,Windows,false,false,Standard,46,Vijayawada
+900463,1027,2809.83,2026-08-11 08:21:00,Groceries,Wallet,Bengaluru,Web,Android,false,false,Student,27,Delhi
+900464,1063,673.41,2026-09-21 03:04:00,Online Shopping,Card,Vijayawada,Mobile App,Windows,false,false,Standard,77,Chennai
+900465,1030,460.04,2026-02-20 07:47:00,Utilities,UPI,Mumbai,Web,iOS,false,false,Premium,69,Delhi
+900466,1079,379.85,2026-08-21 05:24:00,Dining,Card,Chennai,Web,Android,false,false,Standard,76,Pune
+900467,1089,504.13,2026-10-19 01:17:00,Travel,Wallet,Bengaluru,Web,Android,false,false,Premium,13,Hyderabad
+900468,1053,1120.81,2026-09-25 15:55:00,Fuel,Card,Chennai,ATM,iOS,false,false,Standard,88,Pune
+900469,1076,142.38,2026-03-18 18:57:00,Healthcare,ATM,Vijayawada,Mobile App,POS Terminal,false,false,Student,57,Pune
+900470,1064,1945.85,2026-05-04 02:35:00,Online Shopping,Bank Transfer,Bengaluru,Mobile App,Android,false,false,Business,3,Hyderabad
+900471,1062,470.44,2026-06-06 05:45:00,Utilities,Card,Vijayawada,ATM,iOS,false,false,Premium,70,Vijayawada
+900472,1048,306.51,2026-08-26 22:40:00,Dining,Wallet,Pune,Web,Android,false,false,Premium,102,Delhi
+900473,1080,6046.3,2026-06-21 23:59:00,Groceries,Bank Transfer,Chennai,Web,Android,true,false,Premium,76,Bengaluru
+900474,1072,345.42,2026-04-15 04:21:00,Fuel,Card,Chennai,POS,Windows,false,false,Student,68,Vijayawada
+900475,1065,194.5,2026-08-05 08:03:00,Electronics,ATM,Delhi,POS,POS Terminal,false,false,Student,113,Vijayawada
+900476,1080,507.4,2026-07-08 21:44:00,Electronics,UPI,Bengaluru,POS,Android,false,false,Premium,76,Bengaluru
+900477,1090,1822.45,2026-03-17 15:09:00,Travel,ATM,Chennai,ATM,POS Terminal,false,false,Business,46,Mumbai
+900478,1095,796.07,2026-01-11 09:12:00,Online Shopping,ATM,Pune,ATM,POS Terminal,false,false,Standard,32,Bengaluru
+900479,1039,933.91,2026-10-18 04:57:00,Dining,UPI,Bengaluru,POS,Windows,false,false,Business,51,Delhi
+900480,1059,176.43,2026-03-27 19:59:00,Travel,Card,Bengaluru,Mobile App,Android,false,false,Premium,65,Hyderabad
+900481,1041,590.63,2026-10-22 04:28:00,Online Shopping,Card,Chennai,ATM,iOS,false,true,Premium,32,Delhi
+900482,1069,2695.7,2026-06-04 03:58:00,Dining,ATM,Chennai,Web,POS Terminal,false,false,Business,105,Hyderabad
+900483,1044,610.16,2026-02-27 23:30:00,Utilities,Bank Transfer,Hyderabad,POS,Android,false,false,Business,47,Bengaluru
+900484,1078,606.04,2026-04-10 18:33:00,Healthcare,Card,Mumbai,POS,Android,false,false,Premium,9,Chennai
+900485,1086,1708.3,2026-07-04 12:09:00,Dining,ATM,Vijayawada,Mobile App,iOS,false,true,Premium,70,Bengaluru
+900486,1094,1052.72,2026-08-16 23:26:00,Healthcare,ATM,Bengaluru,Mobile App,iOS,false,false,Student,103,Vijayawada
+900487,1027,577.54,2026-06-05 15:55:00,Healthcare,UPI,Hyderabad,ATM,Windows,false,false,Student,27,Delhi
+900488,1054,2051.41,2026-03-31 17:29:00,Healthcare,Bank Transfer,Pune,ATM,Android,false,false,Student,99,Delhi
+900489,1039,1046.48,2026-10-27 09:31:00,Utilities,UPI,Delhi,POS,POS Terminal,true,true,Business,51,Delhi
+900490,1023,348.1,2026-09-09 22:41:00,Electronics,Wallet,Delhi,POS,POS Terminal,false,false,Standard,110,Bengaluru
+900491,1073,1926.6,2026-08-12 08:40:00,Groceries,Card,Chennai,ATM,iOS,false,true,Business,28,Pune
+900492,1046,503.47,2026-03-25 01:17:00,Electronics,Wallet,Bengaluru,Web,Android,false,true,Standard,97,Hyderabad
+900493,1077,819.43,2026-03-27 17:20:00,Electronics,Wallet,Pune,POS,iOS,false,false,Business,16,Bengaluru
+900494,1002,372.18,2026-03-12 16:18:00,Electronics,Card,Bengaluru,Web,iOS,false,false,Student,32,Bengaluru
+900495,1072,752.83,2026-09-27 17:45:00,Electronics,UPI,Vijayawada,Web,Android,true,false,Student,68,Vijayawada
+900496,1062,170.76,2026-06-28 09:44:00,Online Shopping,Card,Delhi,POS,Android,false,false,Premium,70,Vijayawada
+900497,1096,1035.21,2026-03-02 07:08:00,Travel,UPI,Mumbai,Mobile App,Android,false,false,Premium,69,Mumbai
+900498,1003,998.68,2026-09-05 13:02:00,Groceries,UPI,Chennai,Mobile App,Android,false,false,Premium,95,Hyderabad
+900499,1016,133.48,2026-04-16 18:57:00,Dining,Wallet,Chennai,POS,iOS,true,false,Student,78,Chennai
+900500,1065,1290.31,2026-05-04 16:36:00,Travel,Wallet,Hyderabad,Mobile App,iOS,false,false,Student,113,Vijayawada
+900501,1065,696.65,2026-09-01 11:44:00,Online Shopping,ATM,Mumbai,Web,iOS,false,false,Student,113,Vijayawada
+900502,1053,488.03,2026-02-27 10:07:00,Dining,Wallet,Delhi,Mobile App,Android,false,false,Standard,88,Pune
+900503,1042,236.03,2026-09-10 03:24:00,Utilities,Card,Pune,ATM,Windows,false,false,Student,96,Pune
+900504,1055,1486.7,2026-04-07 02:57:00,Utilities,UPI,Mumbai,ATM,Android,false,false,Student,15,Chennai
+900505,1016,243.75,2026-03-15 12:25:00,Healthcare,UPI,Bengaluru,ATM,POS Terminal,false,false,Student,78,Chennai
+900506,1036,3977.51,2026-10-25 18:17:00,Healthcare,ATM,Pune,POS,iOS,false,false,Business,35,Hyderabad
+900507,1099,253.23,2026-08-21 03:07:00,Electronics,UPI,Vijayawada,Mobile App,POS Terminal,false,false,Standard,57,Vijayawada
+900508,1087,692.23,2026-01-14 05:24:00,Electronics,Wallet,Vijayawada,ATM,POS Terminal,false,false,Business,32,Vijayawada
+900509,1026,533.58,2026-05-31 21:31:00,Groceries,UPI,Mumbai,Mobile App,POS Terminal,false,false,Student,21,Chennai
+900510,1058,510.6,2026-06-11 12:28:00,Dining,Card,Mumbai,ATM,iOS,false,false,Student,65,Vijayawada
+900511,1040,85.13,2026-07-19 15:48:00,Utilities,ATM,Pune,Web,Android,false,false,Business,19,Chennai
+900512,1051,409.44,2026-05-15 15:37:00,Online Shopping,Wallet,Hyderabad,POS,POS Terminal,true,false,Business,68,Chennai
+900513,1013,471.48,2026-08-08 11:22:00,Dining,Wallet,Hyderabad,Mobile App,Windows,false,false,Premium,98,Chennai
+900514,1015,579.18,2026-06-22 05:01:00,Healthcare,Bank Transfer,Hyderabad,ATM,Android,false,false,Standard,46,Vijayawada
+900515,1041,401.87,2026-07-13 18:24:00,Fuel,Bank Transfer,Mumbai,POS,iOS,false,false,Premium,32,Delhi
+900516,1079,153.99,2026-06-03 11:27:00,Fuel,Bank Transfer,Chennai,Mobile App,Windows,false,false,Standard,76,Pune
+900517,1074,823.03,2026-07-25 07:39:00,Online Shopping,Bank Transfer,Hyderabad,ATM,POS Terminal,false,false,Premium,92,Chennai
+900518,1027,1493.76,2026-06-27 02:41:00,Online Shopping,Card,Mumbai,ATM,Windows,false,false,Student,27,Delhi
+900519,1080,894.62,2026-09-21 14:42:00,Travel,Wallet,Mumbai,Web,POS Terminal,true,false,Premium,76,Bengaluru
+900520,1035,1134.29,2026-09-30 19:54:00,Fuel,Bank Transfer,Mumbai,Web,iOS,false,false,Standard,104,Chennai
+900521,1020,104.68,2026-06-03 13:26:00,Healthcare,Bank Transfer,Vijayawada,POS,iOS,true,false,Student,74,Bengaluru
+900522,1033,260.25,2026-05-01 12:15:00,Utilities,ATM,Pune,ATM,POS Terminal,false,false,Premium,88,Chennai
+900523,1083,1011.57,2026-01-19 06:10:00,Groceries,ATM,Vijayawada,Mobile App,Android,false,false,Standard,111,Chennai
+900524,1011,434.61,2026-06-10 19:19:00,Travel,Card,Hyderabad,Mobile App,Windows,false,false,Premium,90,Mumbai
+900525,1064,288.85,2026-02-16 07:38:00,Fuel,ATM,Bengaluru,Web,Android,false,false,Business,3,Hyderabad
+900526,1023,194.06,2026-04-20 08:28:00,Electronics,Bank Transfer,Pune,ATM,POS Terminal,true,false,Standard,110,Bengaluru
+900527,1088,909.86,2026-05-07 08:56:00,Dining,UPI,Delhi,Mobile App,Android,false,false,Business,104,Mumbai
+900528,1089,332.59,2026-05-03 08:35:00,Electronics,Wallet,Vijayawada,Web,POS Terminal,false,false,Premium,13,Hyderabad
+900529,1050,324.64,2026-01-05 12:59:00,Online Shopping,ATM,Vijayawada,Mobile App,Windows,false,false,Business,49,Pune
+900530,1011,233.68,2026-09-09 15:47:00,Electronics,Card,Delhi,POS,Android,false,false,Premium,90,Mumbai
+900531,1046,3447.94,2026-08-04 19:46:00,Groceries,Card,Delhi,ATM,iOS,false,false,Standard,97,Hyderabad
+900532,1001,268.33,2026-07-25 06:40:00,Travel,Wallet,Delhi,ATM,Windows,true,false,Standard,4,Delhi
+900533,1058,166.95,2026-09-02 23:08:00,Fuel,UPI,Mumbai,POS,iOS,false,false,Student,65,Vijayawada
+900534,1051,687.4,2026-07-13 18:14:00,Utilities,Card,Chennai,Web,Android,false,false,Business,68,Chennai
+900535,1052,167.85,2026-08-08 19:16:00,Utilities,ATM,Hyderabad,Web,iOS,true,false,Standard,88,Delhi
+900536,1025,538.96,2026-05-17 09:47:00,Dining,Card,Mumbai,Web,POS Terminal,false,false,Business,82,Vijayawada
+900537,1019,258.82,2026-01-15 09:16:00,Utilities,UPI,Hyderabad,ATM,iOS,false,false,Standard,71,Chennai
+900538,1042,1685.45,2026-07-23 21:13:00,Electronics,Wallet,Hyderabad,Mobile App,Windows,false,false,Student,96,Pune
+900539,1031,994.69,2026-08-30 11:38:00,Healthcare,Bank Transfer,Mumbai,POS,iOS,true,false,Premium,21,Mumbai
+900540,1072,258.32,2026-01-22 18:11:00,Travel,UPI,Chennai,ATM,iOS,false,false,Student,68,Vijayawada
+900541,1034,2381.07,2026-03-01 10:02:00,Online Shopping,ATM,Chennai,POS,Windows,false,false,Standard,30,Vijayawada
+900542,1067,76.27,2026-06-10 13:57:00,Utilities,UPI,Bengaluru,Web,Android,false,false,Premium,113,Pune
+900543,1030,154.62,2026-04-04 01:30:00,Utilities,UPI,Mumbai,POS,POS Terminal,false,false,Premium,69,Delhi
+900544,1059,811.01,2026-09-10 03:54:00,Dining,Card,Vijayawada,Web,Windows,false,false,Premium,65,Hyderabad
+900545,1073,900.36,2026-10-27 06:37:00,Utilities,UPI,Chennai,Mobile App,Windows,false,false,Business,28,Pune
+900546,1088,9503.05,2026-03-04 12:23:00,Electronics,ATM,Vijayawada,ATM,POS Terminal,false,false,Business,104,Mumbai
+900547,1081,198.95,2026-05-18 19:42:00,Travel,Card,Vijayawada,Mobile App,Windows,false,false,Standard,10,Delhi
+900548,1042,653.97,2026-01-29 23:04:00,Fuel,ATM,Hyderabad,Mobile App,iOS,true,false,Student,96,Pune
+900549,1021,254.35,2026-07-18 12:18:00,Dining,Wallet,Bengaluru,POS,Android,false,false,Standard,6,Delhi
+900550,1048,474.54,2026-09-20 06:31:00,Electronics,ATM,Vijayawada,POS,iOS,false,false,Premium,102,Delhi
+900551,1056,1176.95,2026-08-07 02:02:00,Travel,ATM,Pune,Mobile App,Windows,false,false,Business,21,Mumbai
+900552,1060,1059.43,2026-08-12 02:58:00,Dining,Card,Pune,ATM,Windows,false,false,Student,108,Delhi
+900553,1073,2047.0,2026-01-25 17:04:00,Utilities,Wallet,Vijayawada,POS,Windows,false,false,Business,28,Pune
+900554,1033,547.85,2026-10-27 02:49:00,Travel,ATM,Hyderabad,Mobile App,POS Terminal,false,false,Premium,88,Chennai
+900555,1091,2266.37,2026-06-02 10:37:00,Online Shopping,Card,Bengaluru,Web,Android,false,false,Business,60,Vijayawada
+900556,1096,1103.81,2026-05-13 21:06:00,Utilities,ATM,Vijayawada,ATM,Windows,false,true,Premium,69,Mumbai
+900557,1080,911.91,2026-07-04 22:43:00,Groceries,Card,Vijayawada,Mobile App,iOS,false,false,Premium,76,Bengaluru
+900558,1062,417.75,2026-03-16 20:15:00,Dining,ATM,Bengaluru,ATM,POS Terminal,false,false,Premium,70,Vijayawada
+900559,1003,89.62,2026-03-01 05:57:00,Utilities,Wallet,Bengaluru,Web,Windows,false,false,Premium,95,Hyderabad
+900560,1073,4218.38,2026-07-20 01:21:00,Dining,UPI,Mumbai,ATM,POS Terminal,false,false,Business,28,Pune
+900561,1066,709.14,2026-09-07 07:45:00,Utilities,UPI,Mumbai,POS,POS Terminal,false,false,Student,31,Hyderabad
+900562,1090,363.15,2026-08-12 00:10:00,Fuel,Wallet,Delhi,POS,POS Terminal,false,false,Business,46,Mumbai
+900563,1017,407.38,2026-05-31 23:45:00,Online Shopping,ATM,Vijayawada,Web,iOS,false,false,Standard,94,Mumbai
+900564,1037,266.3,2026-02-14 21:30:00,Healthcare,ATM,Chennai,Web,iOS,false,false,Premium,117,Pune
+900565,1072,1359.26,2026-01-25 00:22:00,Groceries,UPI,Chennai,ATM,Android,false,false,Student,68,Vijayawada
+900566,1080,306.75,2026-04-27 03:35:00,Groceries,Wallet,Chennai,Web,Android,false,false,Premium,76,Bengaluru
+900567,1091,780.64,2026-01-26 14:51:00,Electronics,Wallet,Hyderabad,Mobile App,iOS,true,true,Business,60,Vijayawada
+900568,1081,248.04,2026-03-02 06:58:00,Utilities,UPI,Bengaluru,POS,Windows,false,false,Standard,10,Delhi
+900569,1018,514.39,2026-03-04 06:28:00,Healthcare,Bank Transfer,Delhi,Web,iOS,false,false,Standard,119,Mumbai
+900570,1097,65.55,2026-09-29 13:50:00,Utilities,Wallet,Vijayawada,POS,Android,false,false,Premium,55,Bengaluru
+900571,1057,213.66,2026-03-16 00:45:00,Groceries,ATM,Vijayawada,Mobile App,iOS,false,false,Standard,93,Delhi
+900572,1074,1913.58,2026-01-30 20:45:00,Dining,Bank Transfer,Chennai,Mobile App,Windows,false,false,Premium,92,Chennai
+900573,1068,490.52,2026-03-17 22:25:00,Utilities,Bank Transfer,Vijayawada,ATM,iOS,false,false,Standard,11,Delhi
+900574,1039,214.96,2026-02-13 01:34:00,Dining,Card,Hyderabad,POS,Windows,false,false,Business,51,Delhi
+900575,1097,2018.08,2026-03-23 00:01:00,Dining,ATM,Pune,Mobile App,Android,false,false,Premium,55,Bengaluru
+900576,1048,430.11,2026-05-13 20:32:00,Dining,Wallet,Delhi,Mobile App,POS Terminal,false,false,Premium,102,Delhi
+900577,1044,1420.18,2026-05-01 23:37:00,Fuel,Bank Transfer,Chennai,POS,iOS,false,false,Business,47,Bengaluru
+900578,1092,305.0,2026-07-13 16:47:00,Online Shopping,ATM,Hyderabad,Web,POS Terminal,false,false,Standard,87,Delhi
+900579,1053,476.6,2026-02-11 02:03:00,Healthcare,Wallet,Pune,ATM,Windows,false,false,Standard,88,Pune
+900580,1075,467.21,2026-09-13 20:27:00,Utilities,Card,Delhi,Mobile App,iOS,false,false,Business,86,Delhi
+900581,1059,163.78,2026-08-31 01:47:00,Healthcare,UPI,Hyderabad,POS,Windows,false,false,Premium,65,Hyderabad
+900582,1006,301.6,2026-09-25 04:07:00,Healthcare,UPI,Chennai,POS,iOS,false,false,Premium,30,Pune
+900583,1024,589.17,2026-09-08 00:07:00,Dining,Wallet,Mumbai,POS,POS Terminal,true,false,Standard,49,Chennai
+900584,1061,1318.25,2026-03-09 04:32:00,Online Shopping,UPI,Vijayawada,ATM,POS Terminal,false,false,Premium,20,Chennai
+900585,1030,482.23,2026-07-22 10:34:00,Groceries,Wallet,Delhi,POS,Android,true,false,Premium,69,Delhi
+900586,1083,2524.69,2026-10-14 02:12:00,Fuel,ATM,Pune,Mobile App,Android,false,false,Standard,111,Chennai
+900587,1085,351.61,2026-09-30 05:01:00,Utilities,UPI,Vijayawada,POS,POS Terminal,false,false,Student,86,Mumbai
+900588,1076,3071.99,2026-01-24 15:55:00,Healthcare,Bank Transfer,Hyderabad,Mobile App,Android,false,true,Student,57,Pune
+900589,1070,65.72,2026-03-28 09:09:00,Travel,UPI,Pune,POS,iOS,false,false,Premium,17,Delhi
+900590,1004,1233.63,2026-01-30 09:24:00,Groceries,Card,Bengaluru,Web,POS Terminal,false,false,Standard,76,Mumbai
+900591,1066,322.93,2026-09-16 12:07:00,Groceries,ATM,Delhi,Web,Android,false,false,Student,31,Hyderabad
+900592,1035,711.65,2026-10-11 18:43:00,Fuel,Card,Chennai,Web,iOS,false,false,Standard,104,Chennai
+900593,1069,723.3,2026-08-05 17:28:00,Dining,Wallet,Chennai,ATM,Windows,true,false,Business,105,Hyderabad
+900594,1081,553.75,2026-04-19 18:53:00,Dining,UPI,Mumbai,Mobile App,iOS,false,false,Standard,10,Delhi
+900595,1093,415.86,2026-10-12 08:56:00,Online Shopping,Bank Transfer,Vijayawada,ATM,Windows,false,false,Standard,8,Mumbai
+900596,1032,466.39,2026-06-14 10:13:00,Groceries,Wallet,Mumbai,Mobile App,Android,true,false,Business,35,Delhi
+900597,1087,1309.49,2026-03-30 13:35:00,Electronics,Wallet,Hyderabad,ATM,Android,false,false,Business,32,Vijayawada
+900598,1046,183.64,2026-07-12 19:22:00,Electronics,ATM,Chennai,Web,POS Terminal,false,false,Standard,97,Hyderabad
+900599,1002,1898.89,2026-04-24 23:01:00,Dining,Card,Bengaluru,ATM,Windows,false,false,Student,32,Bengaluru
+900600,1005,1211.56,2026-05-24 15:57:00,Healthcare,UPI,Vijayawada,POS,POS Terminal,true,false,Standard,4,Hyderabad
